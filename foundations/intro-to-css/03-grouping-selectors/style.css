@@ -1,1 +1,18 @@
 /* Add CSS Styling */
+
+button {
+  border-radius: 0;
+  border: 2px solid black;
+  font-size: 28px;
+} 
+
+.first {
+  color: White;
+  background-color: black;
+  font-weight: 500;
+}
+
+.second {
+  color: Black;
+  background-color: Yellow;
+}
